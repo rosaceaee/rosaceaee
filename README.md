@@ -15,11 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-안녕하세요! 
-js와 react로 UI 퍼블리싱, 프론트 개발을을 하고 있습니다. 보통 토이 프로젝트를 더 많이 합니다.
-
-こんにちは！プロフご覧頂きありがとうございます！
-主にjsとreactでフロント開発をして、簡単な翻訳や個人的なプロジェクトもしております。
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rosaceaee&layout=compact)
