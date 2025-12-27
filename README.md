@@ -13,8 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 <div width="100%" align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosaceaee&layout=compact" alt="top langs" height="170px"  />
   <img src="https://github-readme-stats.vercel.app/api?username=rosaceaee&show_icons=true&theme=radical" alt="stats" height="170px" />
 </div>
+-->
